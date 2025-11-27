@@ -19,7 +19,7 @@ Developed by: SHAIK MAHAMMAD IMRAAN
 RegisterNumber:  212223100053
 */
 ```
-```
+
 
 ## Sourcecode.java:
 ### pack/A.java
@@ -49,5 +49,6 @@ public class B {
 
 ## RESULT:
 Thus, the program has accessed the package from another package has been done successfully.
+
 
 
