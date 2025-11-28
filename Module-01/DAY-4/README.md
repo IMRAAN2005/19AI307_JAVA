@@ -23,9 +23,9 @@ b)	Call the 'calculateArea' method on the 'rectangle' object
 ## PROGRAM:
  ```
 /*
-Program to implement a User Defined Method using Java
-Developed by: Santhosh U
-RegisterNumber: 212222240092
+Program to implement a Smallest Element in an Array
+Developed by: SHAIK MAHAMMAD IMRAAN
+RegisterNumber:  212223100053
 */
 ```
 
@@ -55,4 +55,5 @@ public class Area
 
 ## RESULT:
 Thus, the Java program to print area of rectangle by defining instance method and local variable value as 10,20 was created successfully.
+
 
