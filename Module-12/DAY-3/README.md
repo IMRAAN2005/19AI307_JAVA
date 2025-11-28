@@ -22,9 +22,9 @@ c)	Use a `for` loop to read `n2` strings and add each to `vector2`.
 ## PROGRAM:
  ```
 /*
-Program to implement a JAVA STACK & VECTOR  using Java
-Developed by: Santhosh U
-RegisterNumber: 212222240092
+Program to implement a Smallest Element in an Array
+Developed by: SHAIK MAHAMMAD IMRAAN
+RegisterNumber:  212223100053
 */
 ```
 
@@ -67,6 +67,7 @@ public class VectorDemo {
 ## RESULT:
 
 Thus the java program to create vector and read the elements for two vector in java collection.(Use equals method ) was executed successfully.
+
 
 
 
