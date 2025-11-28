@@ -21,9 +21,9 @@ III.	Call the displayDetails() method for each student.
 ## PROGRAM:
  ```
 /*
-Program to implement a Static Variable using Java
-Developed by: Santhosh U
-RegisterNumber: 212222240092
+Program to implement a Smallest Element in an Array
+Developed by: SHAIK MAHAMMAD IMRAAN
+RegisterNumber:  212223100053
 */
 ```
 
@@ -53,3 +53,4 @@ public class Demo
 
 ## RESULT:
 Thus, the Java program for the concept of using a static variable for shared data was correctly implemented and verified successfully. 
+
