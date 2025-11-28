@@ -20,9 +20,9 @@ b.	If false, print 'num' followed by " is Non-Zero"
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
-Developed by: Santhosh U
-RegisterNumber: 212222240092
+Program to implement a Smallest Element in an Array
+Developed by: SHAIK MAHAMMAD IMRAAN
+RegisterNumber:  212223100053
 */
 ```
 
@@ -53,4 +53,5 @@ public class Demo
 
 ## RESULT:
 Thus, the Java program to check given number is zero or not was created successfully.
+
 
