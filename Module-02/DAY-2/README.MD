@@ -25,9 +25,9 @@ b)	Call the `display(8, 9)` method on the `ad` object
 ## PROGRAM:
  ```
 /*
-Program to implement a access modifiers using Java
-Developed by: Santhosh U
-RegisterNumber: 212222240092
+Program to implement a Smallest Element in an Array
+Developed by: SHAIK MAHAMMAD IMRAAN
+RegisterNumber:  212223100053
 */
 ```
 
@@ -64,6 +64,7 @@ Expected        	Got
 
 ## RESULT:
 Thus the java program to display the addition number using private modifiers only was executed successfully.
+
 
 
 
