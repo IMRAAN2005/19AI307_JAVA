@@ -19,9 +19,9 @@ To create a class named 'Student' with String variable 'name' and String variabl
 ## PROGRAM:
  ```
 /*
-Program to implement a class & objects using Java
-Developed by: Santhosh U
-RegisterNumber: 212222240092
+Program to implement a Smallest Element in an Array
+Developed by: SHAIK MAHAMMAD IMRAAN
+RegisterNumber:  212223100053
 */
 ```
 
@@ -50,4 +50,5 @@ public class Main
 
 ## RESULT:
 Thus, the class named 'Student' with String variable 'name' and String variable 'address' was created successfully.
+
 
