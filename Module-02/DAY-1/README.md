@@ -20,9 +20,9 @@ To create a java program for calculate cube of a number using static method.
 ## PROGRAM:
  ```
 /*
-Program to implement a Static method using Java
-Developed by: Santhosh U
-RegisterNumber: 212222240092
+Program to implement a Smallest Element in an Array
+Developed by: SHAIK MAHAMMAD IMRAAN
+RegisterNumber:  212223100053
 */
 ```
 
@@ -57,4 +57,5 @@ public class CubeCalculator {
 
 ## RESULT:
 Thus the java program for calculate cube of a number using static method has been executed successfully.
+
 
