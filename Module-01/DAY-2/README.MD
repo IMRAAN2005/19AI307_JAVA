@@ -21,9 +21,9 @@ b)	If the condition is false, print "false" using the 'print' method of 'System.
 ## PROGRAM:
  ```
 /*
-Program to implement a variable and operators using Java
-Developed by: Santhosh U
-RegisterNumber: 212222240092
+Program to implement a Smallest Element in an Array
+Developed by: SHAIK MAHAMMAD IMRAAN
+RegisterNumber:  212223100053
 */
 ```
 
@@ -62,3 +62,4 @@ Input    Expected   Got
 ```
 ## RESULT:
 Thus, the Java program to get values of variables 'a' and 'b' and then check if both the conditions 'a < 50' and 'a < b' are true is created successfully.
+
